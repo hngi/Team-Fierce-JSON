@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1,
+    "state": "A state/region in nigeria",
+    "name": "blabla soup",
+    "description": " description of soup",
+    "ingredients": {
+      "ingredient_1": "this",
+      "Ingredient_2": "that",
+      "Ingredient_3": "some more"
+    },
+    "steps_to_make": {
+      "step_1": "do this",
+      "step_2": "do that",
+      "step_3": "do again"
+    },
+    "imageLink": "url of image",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 2,
+    "state": "General",
+    "name": "Efo riro soup",
+    "description": "Efo riro is one of the most popular vegetable soups in Nigeria and an absolute favorite of the Yoruba.It is rich with vitamins and an amazing variety of protein.To prepare this finger licking delicious delicacy, the following ingredients are needed;",
+
+    "ingredients": {
+      "ingredient_1": "½ cup palm oil",
+      "Ingredient_2": "scotch bonnet(Rodo)",
+      "Ingredient_3": "3 medium bell peppers(Tatashe)",
+      "Ingredient_4": "½ medium size red onions",
+      "Ingredient_5": "2 bunch ugwu leaves",
+      "Ingredient_6": "Assorted meat of your choice",
+      "Ingredient_7": "Dried stockfish(optional)",
+      "Ingredient_8": "¼ cup smoked prawns",
+      "Ingredient_9": "1 tablespoon locust beans",
+      "Ingredient_10": "3 tablespoons ground crayfish",
+      "Ingredient_11": "2 seasoning cubes",
+      "Ingredient_12": "salt to taste"
+    },
+
+    "steps_to_make": {
+      "step_1": "do this",
+      "step_2": "do that",
+      "step_3": "do again"
+    },
+    "imageLink": "https://sisijemimah.com/wp-content/uploads/2015/06/image213.jpg",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 3,
+    "state": "South East Nigeria",
+    "name": "Onugbu Soup",
+    "description": "This is a traditional soup native to the South Easten part of Nigeria",
+    "Ingredient": {
+      "ingredient_1": "A handful of washed and squeezed bitterleaf",
+      "ingredient_2": "10 small corms(Cocoyam)",
+      "ingredient_3": "3 cooking spoons of Red Palm Oil",
+      "ingredient_4": "Assorted Beef( Optional )",
+      "ingredient_5": "Assorted Fish: Stock Fish and Dry Fish",
+      "ingredient_6": "Salt, Pepper and ground crayfish (to taste)",
+      "ingredient_7": "3 stock cubes( e.g maggi cubes)",
+      "ingredient_8": "1 teaspoon of Ogiri Igbo (traditional seasoning)"
+    },
+
+    "steps_to make": {
+      "step_1": "Make sure the bitter leaves are well washed to remove the bitter taste. If the bitterness cannot be completely washed off, boil it for about 15 minutes and wash in cold water",
+      "step_2": "Wash ad cock teh cocoyam till they are soft.Remove the peels and use a mortar and pestle to pound the cocoyams to a smooth paste",
+      "step_3": "Boil the assorted beef, stock fish and dry fish in 1 litre of water till they are well done",
+      "step_4": "Add the 3 stock cubes(Maggi/knorr) and cock for 5 minutes",
+      "step_5": "Add the group crayfish, pepper and bitter leaves and cock for 10 minutes",
+      "step_6": "Add the cocoyam paste in small lumps and the palm oil",
+      "step_7": "Cover the pot and let it cock until the cocoyam lumps have dissolved. You can add water if you feel the soup is too thick",
+      "step_8": "Add salt to taste and cock for a few minutes. The soup is ready"
+    },
+    "imageLink": "url of image",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 4,
+    "state": "A state/region in nigeria",
+    "name": "Akara",
+    "description": " Akara is a popular Nigerian food made with beans and it is also known as bean cakes, bean balls or bean fritas. It can be served with pap,custard or fresh bread.",
+    "Ingredients": {
+      "ingredient_1": "1 cup black-eyed beans",
+      "Ingredient_2": "2 atarodo peppers",
+      "Ingredient_3": "1 medium onion",
+      "Ingredient_4": "vegetable oil",
+      "Ingredient_5": "salt to taste"
+    },
+    "steps_to_make": {
+      "step_1": "wash the beans thoroughly until the coat comes off and soak in water for 2 hours to make it soft enough to blend",
+      "step_2": "Grind the beans in a blender and make sure to add just a little quantity of water.",
+      "step_3": "Heat up some oil at least 3 inches deep",
+      "step_4": "Empty the ground beans into a deep bowl.",
+      "step_5": "Blend the pepper and onion separately and add it to the ground beans.",
+      "step_6": "mix properly and add one spoonful at a time into the hot oil",
+      "step_7": "Fry until it is brown all over. Remove and place in a sieve lined with paper towels",
+      "step_8": "Repeat this process until the mixture is the bowl is finished",
+      "step_9": "your freshly made hot Akara is ready to be served as desired"
+    },
+    "imageLink": "https://nkechiajaeroh.com/wp-content/uploads/2020/01/Akara-with-pepper-sauce-800x600.jpg",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 5,
+    "state": "A state/region in nigeria",
+    "name": "suya",
+    "description": " Suya is an infamous spicy delicious street food that we all know and love. It is made either with beef, ram or chicken. Innards like kidney and liver are also used and the dried version of suya is called kilishi. Replicating this delicious goodness is really not a rocket science as the ingredients are readily available and affordable.",
+    "Ingredients": {
+      "ingredient_1": " 500g boneless beef",
+      "Ingredient_2": " 1/2 cup suya spice",
+      "Ingredient_3": " 1/4 cup vegetable oil",
+      "Ingredient_4": " 8-10 skewers",
+      "Ingredient_5": " 1 seasoning cube"
+    },
+    "steps_to_make": {
+      "step_1": "soak skewers in water for 12hours so it doesn't burn during grilling",
+      "step_2": "Wash meat thoroughly and slice into thin pieces",
+      "step_3": "Loop the beef onto the skewers",
+      "step_4": "Arrange the skewered meats in a deep dish or tray",
+      "step_5": "Pour vegetable oil in a bowl, add seasoning cube and mix thoroughly",
+      "step_6": "Dip a clean brush into the oil and thoroughly coat the meat with it",
+      "step_7": "Dust the oiled meats with suya spice and make sure it covers the meat properly",
+      "step_8": "Arrange the spice-covered meat on an oven rack and place them in a preheated grill or oven",
+      "step_9": "Set the oven to 200 degrees Celsius and grill each side for 13-15 minutes",
+      "step_10": "Enjoy your delicious homemade suya"
+    },
+    "imageLink": "https://sisijemimah.com/wp-content/uploads/2017/02/Nigerian-suya-recipe-768x512.jpg ",
+    "videoLink": "url of video"
+  },
+  {
+    "id”": 6,
+    "state": ",Eastern Nigeria",
+    "name": "Ofe Nsala (Nsala Soup)",
+    "description": "Ofe Nsala is the quickest and easiest Igbo Soup to prepare making it the choice soup for special guests who are so familiar to us that they pay us impromptu visits.",
+    "ingredients": {
+      "ingredient_1": "1 big Catfish (Catfish is the fish for Ofe Nsala).",
+      "Ingredient_2": "White yam",
+      "Ingredient_3": "5 Utazi leaves",
+      "Ingredient_4": "Small piece of ogiri okpei",
+      "Ingredient_5": "A handful crayfish",
+      "Ingredient_6": "Habanero pepper (to taste)",
+      "Ingredient_7": "Salt (if necessary)",
+      "Ingredient_8": "1 big bulb of red onion",
+      "Ingredient_9": "2 seasoning cubes"
+    },
+
+    "steps_to_make": {
+      "step_1": "Boil hot water and pour on the pieces of fish to remove the slime on the fish as well as toughen them. You want to toughen the catfish so it does not disintegrate in the soup.",
+      "step_2": "Quickly rinse off the slime with cool water and place the fish in the cooking pot.",
+      "step_3": "Peel the yam and cut into medium pieces.",
+      "step_4": "Chop the utazi and pound in a mortar (or blend in a blender) with the pepper, ogiri okpei and crayfish. Just give them a rough pound. Same with if you are using a blender.",
+      "step_5": "Add the seasoning cubes (crushed) to the pot of fish.",
+      "step_6": "Add the pieces of yam.",
+      "step_7": "Pour water to cover everything and start cooking.",
+      "step_8": "When the yam is soft and moist, bring them out and place in a mortar.",
+      "step_9": "Add the pounded crayfish, pepper, ogiri okpei and utazi into the pot of fish and continue cooking.",
+      "step_10": "Pound the cooked yam in a mortar till smooth and stretchy.",
+      "step_11": "Add the yam into the pot of Ofe Nsala in small lumps, cover and continue cooking.",
+      "step_12": "Once the yam dissolves and thickens the soup, it is done.",
+      "step_13": "If you achieve medium consistency before all the yam is dissolved, take out the undissolved yam because you do not want the Ofe Nsala to be too thick.",
+      "step_14": "Add salt if necessary, stir very well and that’s it!",
+      "step_15": "Serve with Pounded Yam, Semolina or Fufu."
+    },
+    "imageLink": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/08/ofe-nsala.jpg",
+    "videoLink": "https://youtu.be/FB7d7WoRlwk"
+  },
+  {
+    "id": 7,
+    "state": "South East Nigeria",
+    "name": "Nkwobi",
+    "description": "Nkwobi is a delicacy that is usually ordered at exclusive restaurants. It's simply cooked cow foot mixed with spicy palm oil paste",
+    "Ingredient": {
+      "ingredient_1": "2kg(4.4 lbs) of cow foot , which would be cut into sizeable pieces",
+      "ingredient_2": "20cl(200ml) of Palm Oil",
+      "ingredient_3": "1 tablespoon of powdered edible potash",
+      "ingredient_4": "1 teaspoon ground Ehu seeds( Calabash nutmeg)",
+      "ingredient_5": "1 sizable onion",
+      "ingredient_6": "2 habanero pepper or you can add it to your taste",
+      "ingredient_7": "Salt( to taste)",
+      "ingredient_8": "To garnish: 1 medium onion and 10 utazi leaves"
+    },
+    "steps_to make": {
+      "step_1": "Cut the cow foot into medium chunks",
+      "step_2": "Put the powdered potash into a bowl with small water and stir well. pass it through a sieve and set the liquid aside",
+      "step_3": "Cut 1 onion into 4 big chunks",
+      "step_4": "Pound the pepper with a mortar and pestle",
+      "step_5": "Grind the crayfish",
+      "step_6": "Crack and remove the outer shell of the ehu and grind it with a dry mill (e.g coffee grinder)",
+      "step_7": "Wash and put the cow foot chunks in a pot",
+      "step_8": "Add the stock cubes(Maggi/Knorr)  and the chunks of onion",
+      "step_9": "All a little water and start cooking still it's well cocked. Add just enough water to prevent burning as you cock. There should not be any stock (water ) in the pot when the cow foot chunks are done",
+      "step_10": "While the meat is cooking , pour the palm oil into a clean dry pot",
+      "step_11": "Pour the potash mixture that has already then sieved into the oil",
+      "step_12": "Stir with a spatula as you pour the potash. The palm oil will begin to curdle and turn yellow",
+      "step_13": "Add the ground crayfish, ehu seeds and pepper. Stir very well till they are all incorporated",
+      "step_14": "When the meat is done , add sait , stir and cock till all the water has dried up",
+      "step_15": "Add the well done cow foot to the palm oil paste and stir it very well.",
+      "step_16": "Cock until the Nkwobi is hot, stir it all the time to make sure it does not burn",
+      "step_17": "To prepare the garnish, cut the onions into rings and cut the utazi into long thin slices",
+      "step_18": "Add the onion rings and thin slices of utazi on top of the Nkwobi. Your Nkwobi is ready!"
+    },
+    "imageLink": "url of image",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 8,
+    "state": "A state in nigeria",
+    "name": "owo soup",
+    "description": "You haven't been to Edo state if you've not tried their traditional owo soup. It is the oldest prepared and eaten soup of the edo people. It is usually thick and bare compared to other Nigerian soups. To prepare this delicious delicacy, the following ingredients are required.",
+    "ingredients": {
+      "ingredient_1": "Dried or smoked fish",
+      "Ingredient_2": "Goat meat or assorted meat",
+      "Ingredient_3": "Cray fish",
+      "Ingredient_4": "1 handful of dried prawns",
+      "Ingredient_5": "Fresh or dried pepper",
+      "Ingredient_6": "potash",
+      "Ingredient_7": "1 onion bulb",
+      "Ingredient_8": "5 fresh tomatoes",
+      "Ingredient_9": "1 seasoning cube",
+      "Ingredient_10": "salt"
+    },
+    "steps_to_make": {
+      "step_1": "wash and add the meat to a pot. Add the chopped onion, seasoning cube and salt to taste. Allow to boil for 3 minutes.",
+      "step_2": "Add the smoked fish, blended tomatoes, pepper and crayfish into the pot. Allow this to boil for 10 minutes.",
+      "step_3": "Stir continuously to avoid burning.",
+      "step_4": "Add the potash into a bowl of boiling water to dissolve. Strain and carefully add the liquid into the pot. Leave to cook for a few minutes.",
+      "step_5": "Add the palm oil and allow to cook then stir. Note that the addition of the potash is what gives the soup it's thickness. ",
+      "step_6": "Finally, serve with any swallow of your choice."
+    },
+    "imageLink": "url of image",
+    "videoLink": "https://youtu.be/txx_GTJWf0A"
+  },
+  {
+    "id": 9,
+    "state": "South Eastern Nigeria",
+    "name": "Oha Soup",
+    "description": "Oha soup is native to the Southern Eastern Nigeria.Oha soup is a traditional soup cooked with Ora leaves",
+    "steps_to_make": {
+      "step_1": "Grind the crayfish and pepper",
+      "step_2": "Wash and boil the cocoyam corm till its soft",
+      "step_3": "Remove the peels around the cocoyam",
+      "step_4": "Use a Mortar and pestle to pound the corms to a smooth paste",
+      "step_5": "With a knife cut the Ora leaves into tiny pieces",
+      "step_6": "Get your stock fish and dry fish cut in smaller pieces",
+      "step_7": "Boil your stock fish and dry fish in  1 litre of water till they are done",
+      "step_8": "Wash and cut your meat then add to the pot and continue cooking",
+      "step_9": "When the meat is done, add 2 stock cubes and cook for 5 minutes",
+      "step_10": "Add pepper,group crayfish and ogiri, let it cook for another 10 minutes",
+      "step_11": "While the cooking add the cocoyam paste in small lumps",
+      "step_12": "When your done adding the small lumps, then add palm oil",
+      "step_13": "Let it cock until all the cocoyam lumps have dissolved. (NOTE : you can add more water if you feel the soup is too thick",
+      "step_14": "Add the Ora leaves",
+      "step_15": "Add salt to your taste",
+      "step_16": "cook for about 5 minutes",
+      "step_17": "The soup is ready"
+    },
+    "imageLink": "url of image",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 10,
+    "state": "General",
+    "name": "Special Okra Soup for Licking",
+    "description": "This Okra Soup recipe is the most concentrated Okra Soup ever. It is meant for only licking! Yes, we say you lick the soup when we “eat” just the soup. That means no need for a fufu meal. The soup is that conc, with lots of vitamins. This is best for those who want to reduce or maintain their weight.",
+    "ingredients": {
+      "ingredient_1": "500g okra",
+      ",Ingredient_2": ",1.2kg beef",
+      "Ingredient_3": "2 medium smoked mackerels (titus fish)",
+      "Ingredient_4": "1 sweet pepper",
+      "Ingredient_5": "10 mushrooms(optional)",
+      "Ingredient_6": "¼ cup palm oil",
+      "Ingredient_7": "Leafy vegetable (ugu or spinach)",
+      "Ingredient_8": "1 big bulb of red onion",
+      "Ingredient_9": "2 seasoning cubes"
+    },
+
+    "steps_to_make": {
+      "step_1": "Debone the fish and break them up into big chunks.",
+      "step_2": "Rinse and prep the okra by hand-cutting it.",
+      "step_3": "Chop the peppers",
+      "step_4": "Slice up the mushrooms (if available)",
+      "step_5": "Chop the onions",
+      "step_6": "Boil the beef with seasoning cubes (crushed) and half of the chopped onions",
+      "step_7": "When done, set the stock aside. The stock should be little by the time the beef is well done.",
+      "step_8": "In a clean dry pot, fry the sliced mushrooms with the palm oil. Fry for at most 5 minutes. ",
+      "step_9": "Take out the mushrooms",
+      "step_10": "Stir-fry the diced okra and remaining onions in the oil for a bit. Do not over-fry.",
+      "step_11": "Start adding the meat stock bit by bit. Add, stir till you notice the elasticity of the okra coming through. Repeat till all the stock is used up.",
+      "step_12": "Add the rest of the ingredients into the pot with the leafy vegetable on top.",
+      "step_13": "Cover and steam till the leafy vegetables at the top wilts from the heat.",
+      "step_14": "Stir till everything is well combined then add salt to your taste and mix well.",
+      "step_15": "The Okra Soup should be VERY thick when done."
+    },
+    "imageLink": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/02/best-nigerian-okra-soup-recipe.jpg",
+    "videoLink": "https://youtu.be/g-FoiBNDVg8"
+  },
+  {
+    "id": 11,
+    "state": "A state/region in nigeria",
+    "name": "stir-fry chicken spaghetti",
+    "description": " just when you thought spaghetti couldn't get any better, it did. This dish is finger-licking good and would have you coming back for more. So if you're thinking of spicing up your meal plan, you should definitely add this to the list.",
+    "ingredients": {
+      "ingredient_1": "Boiled and drain chicken",
+      "Ingredient_2": "vegetable oil",
+      "Ingredient_3": "1 bulb of onion",
+      "Ingredient_4": "Thyme and curry powder",
+      "Ingredient_5": "sliced green and red bell peppers, 2 each.",
+      "Ingredient_6": "1 seasoning cube",
+      "Ingredient_7": "A pack of thin spaghetti",
+      "Ingredient_8": "Salt to taste"
+    },
+    "steps_to_make": {
+      "step_1": "Add oil into a pan and allow to heat up",
+      "step_2": "Add chopped onion into the hot oil",
+      "step_3": "Stir and Add the blended peppers",
+      "step_4": "Add thyme and curry powder. Stir and add the sliced garlic and ginger",
+      "step_5": "Cover and allow to dry",
+      "step_6": "when it is dried, empty it into a bowl.",
+      "step_7": "In the same pan, add your already boiled chicken, season and stir fry until it is well cooked",
+      "step_8": "while the chicken is stir-frying, add water into a pot. Add salt to this boiling water.",
+      "step_9": "Add spaghetti to the boiling water and allow to cook",
+      "steo_10": "Add the vegetable(pepper) into the pan containing the chicken. Add half a seasoning cube and mix together.",
+      "step_11": "Drain the cooked spaghetti and add it into the stir-fry mixture. Stir together properly",
+      "step_12": "put off the heat and get ready to have a mouth watering meal"
+    },
+    "imageLink": "url of image",
+    "videoLink": "url of video"
+  }
+]
