@@ -43,7 +43,7 @@
       "step_2": "do that",
       "step_3": "do again"
     },
-    "imageLink": "https://sisijemimah.com/wp-content/uploads/2015/06/image213.jpg",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843589/Efo-Riro.jpg",
     "videoLink": "url of video"
   },
   {
@@ -72,7 +72,7 @@
       "step_7": "Cover the pot and let it cock until the cocoyam lumps have dissolved. You can add water if you feel the soup is too thick",
       "step_8": "Add salt to taste and cock for a few minutes. The soup is ready"
     },
-    "imageLink": "url of image",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843599/onugbu-soup.jpg",
     "videoLink": "url of video"
   },
   {
@@ -98,7 +98,7 @@
       "step_8": "Repeat this process until the mixture is the bowl is finished",
       "step_9": "your freshly made hot Akara is ready to be served as desired"
     },
-    "imageLink": "https://nkechiajaeroh.com/wp-content/uploads/2020/01/Akara-with-pepper-sauce-800x600.jpg",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843527/akara.jpg",
     "videoLink": "url of video"
   },
   {
@@ -125,7 +125,7 @@
       "step_9": "Set the oven to 200 degrees Celsius and grill each side for 13-15 minutes",
       "step_10": "Enjoy your delicious homemade suya"
     },
-    "imageLink": "https://sisijemimah.com/wp-content/uploads/2017/02/Nigerian-suya-recipe-768x512.jpg ",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843528/suya.jpg",
     "videoLink": "url of video"
   },
   {
@@ -162,7 +162,7 @@
       "step_14": "Add salt if necessary, stir very well and that’s it!",
       "step_15": "Serve with Pounded Yam, Semolina or Fufu."
     },
-    "imageLink": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/08/ofe-nsala.jpg",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843585/ofe-nsala.png",
     "videoLink": "https://youtu.be/FB7d7WoRlwk"
   },
   {
@@ -200,12 +200,12 @@
       "step_17": "To prepare the garnish, cut the onions into rings and cut the utazi into long thin slices",
       "step_18": "Add the onion rings and thin slices of utazi on top of the Nkwobi. Your Nkwobi is ready!"
     },
-    "imageLink": "url of image",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843546/sisi-nkwobi.jpg",
     "videoLink": "url of video"
   },
   {
     "id": 8,
-    "state": "A state in nigeria",
+    "state": "Benin-City, Edo",
     "name": "owo soup",
     "description": "You haven't been to Edo state if you've not tried their traditional owo soup. It is the oldest prepared and eaten soup of the edo people. It is usually thick and bare compared to other Nigerian soups. To prepare this delicious delicacy, the following ingredients are required.",
     "ingredients": {
@@ -228,7 +228,7 @@
       "step_5": "Add the palm oil and allow to cook then stir. Note that the addition of the potash is what gives the soup it's thickness. ",
       "step_6": "Finally, serve with any swallow of your choice."
     },
-    "imageLink": "url of image",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843588/owo-soup.jpg",
     "videoLink": "https://youtu.be/txx_GTJWf0A"
   },
   {
@@ -255,7 +255,7 @@
       "step_16": "cook for about 5 minutes",
       "step_17": "The soup is ready"
     },
-    "imageLink": "url of image",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843588/oha-soup.jpg",
     "videoLink": "url of video"
   },
   {
@@ -292,7 +292,7 @@
       "step_14": "Stir till everything is well combined then add salt to your taste and mix well.",
       "step_15": "The Okra Soup should be VERY thick when done."
     },
-    "imageLink": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/02/best-nigerian-okra-soup-recipe.jpg",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843582/okro-soup.jpg",
     "videoLink": "https://youtu.be/g-FoiBNDVg8"
   },
   {
@@ -324,7 +324,7 @@
       "step_11": "Drain the cooked spaghetti and add it into the stir-fry mixture. Stir together properly",
       "step_12": "put off the heat and get ready to have a mouth watering meal"
     },
-    "imageLink": "url of image",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591846315/spaghetti.jpg",
     "videoLink": "url of video"
   }
 ]
