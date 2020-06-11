@@ -1,0 +1,5 @@
+Below is the link leading to the Google Sheet with the Cloudinary links. The items marked in green have already been filled into the recipes.json file.
+
+More links will be added ASAP!
+
+https://docs.google.com/spreadsheets/d/1J7LniQzhN3mgrhfzqK8VDAUGneiMPv6oPeLlMl_ozs4/edit?usp=sharing
