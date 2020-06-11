@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2,
+    "state": "General",
+    "name": "Efo riro soup",
+    "description": "Efo riro is one of the most popular vegetable soups in Nigeria and an absolute favorite of the Yoruba.It is rich with vitamins and an amazing variety of protein.To prepare this finger licking delicious delicacy, the following ingredients are needed;",
+
+    "ingredients": "½ cup palm oil, scotch bonnet(Rodo), 3 medium bell peppers(Tatashe), ½ medium size red onions, 2 bunch ugwu leaves, Assorted meat of your choice, Dried stockfish(optional), ¼ cup smoked prawns, 1 tablespoon locust beans, 3 tablespoons ground crayfish, 2 seasoning cubes, salt to taste",
+    "steps_to_make": "do this, do that, do again",
+    "imageLink": "https://sisijemimah.com/wp-content/uploads/2015/06/image213.jpg",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 2,
+    "state": "South East Nigeria",
+    "name": "Onugbu Soup",
+    "description": "This is a traditional soup native to the South Easten part of Nigeria",
+    "Ingredient": "A handful of washed and squeezed bitterleaf, 10 small corms(Cocoyam), 3 cooking spoons of Red Palm Oil, Assorted Beef( Optional ), Assorted Fish: Stock Fish and Dry Fish, Salt, Pepper and ground crayfish (to taste), 3 stock cubes( e.g maggi cubes), 1 teaspoon of Ogiri Igbo (traditional seasoning)",
+
+    "steps_to make": "Make sure the bitter leaves are well washed to remove the bitter taste. If the bitterness cannot be completely washed off, boil it for about 15 minutes and wash in cold water, Wash ad cock teh cocoyam till they are soft.Remove the peels and use a mortar and pestle to pound the cocoyams to a smooth paste, Boil the assorted beef, stock fish and dry fish in 1 litre of water till they are well done, Add the 3 stock cubes(Maggi/knorr) and cock for 5 minutes, Add the group crayfish, pepper and bitter leaves and cock for 10 minutes, Add the cocoyam paste in small lumps and the palm oil, Cover the pot and let it cock until the cocoyam lumps have dissolved. You can add water if you feel the soup is too thick, Add salt to taste and cock for a few minutes. The soup is ready",
+
+    "imageLink": "url of image",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 4,
+    "state": "A state/region in nigeria",
+    "name": "Akara",
+    "description": " Akara is a popular Nigerian food made with beans and it is also known as bean cakes, bean balls or bean fritas. It can be served with pap,custard or fresh bread.",
+    "Ingredients": "1 cup black-eyed beans, 2 atarodo peppers, 1 medium onion, vegetable oil, salt to taste",
+    "steps_to_make": "wash the beans thoroughly until the coat comes off and soak in water for 2 hours to make it soft enough to blend, Grind the beans in a blender and make sure to add just a little quantity of water, Heat up some oil at least 3 inches deep, Empty the ground beans into a deep bowl, Blend the pepper and onion separately and add it to the ground beans, mix properly and add one spoonful at a time into the hot oil, Fry until it is brown all over. Remove and place in a sieve lined with paper towels, Repeat this process until the mixture is the bowl is finished, your freshly made hot Akara is ready to be served as desired",
+    "imageLink": "https://nkechiajaeroh.com/wp-content/uploads/2020/01/Akara-with-pepper-sauce-800x600.jpg",
+    "videoLink": "url of video"
+  },
+  {
+    "id": 5,
+    "state": "A state/region in nigeria",
+    "name": "suya",
+    "description": " Suya is an infamous spicy delicious street food that we all know and love. It is made either with beef, ram or chicken. Innards like kidney and liver are also used and the dried version of suya is called kilishi. Replicating this delicious goodness is really not a rocket science as the ingredients are readily available and affordable.",
+    "Ingredients": " 500g boneless beef, 1/2 cup suya spice, 1/4 cup vegetable oil, 8-10 skewers, 1 seasoning cube",
+    "steps_to_make": "soak skewers in water for 12hours so it doesn't burn during grilling, Wash meat thoroughly and slice into thin pieces, Loop the beef onto the skewers, Arrange the skewered meats in a deep dish or tray, Pour vegetable oil in a bowl, add seasoning cube and mix thoroughly, Dip a clean brush into the oil and thoroughly coat the meat with it, Dust the oiled meats with suya spice and make sure it covers the meat properly, Arrange the spice-covered meat on an oven rack and place them in a preheated grill or oven, Set the oven to 200 degrees Celsius and grill each side for 13-15 minutes, Enjoy your delicious homemade suya",
+    "imageLink": "https://sisijemimah.com/wp-content/uploads/2017/02/Nigerian-suya-recipe-768x512.jpg ",
+    "videoLink": "url of video"
+  }
+]

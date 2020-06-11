@@ -1,16 +1,7 @@
 [
+
   {
-    "id": 1,
-    "state": "A state/region in nigeria",
-    "name": "blabla soup",
-    "description": " description of soup",
-    "ingredients": ["this", "that", "some more"],
-    "steps_to_make": ["do this", "do that", "do again"],
-    "imageLink": "url of image",
-    "videoLink": "url of video"
-  },
-  {
-    "id": 2,
+    "id": "2",
     "state": "General",
     "name": "Efo riro soup",
     "description": "Efo riro is one of the most popular vegetable soups in Nigeria and an absolute favorite of the Yoruba.It is rich with vitamins and an amazing variety of protein.To prepare this finger licking delicious delicacy, the following ingredients are needed;",
