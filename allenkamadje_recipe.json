@@ -1,0 +1,64 @@
+[
+    {
+        "id": "7",
+        "state": "General",
+        "name": "Puff Puff",
+        "description": "Puff-puff is a traditional African snack made of fried dough.",
+        "ingredients": "1. 1kg Baker's Flour, 2. 300g Sugar, 3. Yeast, 4. Flavour of choice, 5. Lukewarm water, 6. Vegetable oil for frying",
+        "steps": "1. Mix flour and sugar, 2. Pour lukewarm water in yeast, 3. mix properly and add to already mixed dry ingredients, 4. Add flavour, 5. mix and leave to rise, 5. Then fry in deep oil until golden brown",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591846306/puff-puff.jpg",
+        "videoLink": "url of video"
+      },
+    
+      {
+        "id": "8",
+        "state": "General",
+        "name": "Doughnut",
+        "description": "A doughnut or donut is a type of fried dough confection or dessert food. The doughnut is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors.",
+        "ingredients": "1. 1 1/2 cups whole milk, 2. lukewarm, 3. 1 stick unsalted butter, 4. room temperature, 5. 4 1/2 teaspoons yeast, 6. 3 large eggs, 7. 1/4 cup + 2 tablespoons sugar, 8. 1 1/2 teaspoons salt, 9. 1 teaspoon freshly grated nutmeg, 10. 5 cups + 1/4 cup + 2 tablespoons all-purpose flour, 11. divide additional all-purpose flour for dusting, 12. Vegetable oil for frying",
+        "steps": "1. Combine first 7 ingredients and 2 cups flour in the bowl of your stand mixer. 2. Beat on medium speed with a flat beater for 2-3 minutes (dough will look like slightly curdled cake batter)., 3. Add remaining flour and switch to a dough hook, knead on medium speed for additional 3 minutes (dough will be very soft). 4. Remove bowl from the mixer, scrape the sides of the bowl and cover bowl with a clean kitchen towel and place in the warmest spot in your kitchen. 5. Let dough rise for 1 – 1 1/2 hours or until doubled in size., 6. Dust working surface liberally with flour, Dump dough and dust flour on top. 7. Roll into 1/2 inch thick circle, cut circles with 3-inch circle cookie cutter and with a small cookie cutter in the middle of each doughnuts, to make the holes., 8. Place doughnuts on a lightly floured cookie sheet, spacing about an inch apart. 9. Cover with a kitchen towel, let rise for about 30 to 45 minutes., 10. Add about 2 inches of oil in a large Dutch oven, heat over medium high heat until 330 degrees. 11. Deep fry about 4 doughnuts at a time, until golden brown on both sides (45-60 seconds per side). Drain on a paper towel.",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591846310/Doughnut.jpg",
+        "videoLink": "url of video"
+      },
+    
+      {
+        "id": "9",
+        "state": "General",
+        "name": "Moist Chocolate Cake",
+        "description": "A Moist Chocolate Cake is a cake made with chocolate or cocoa.",
+        "ingredients": "1. 1/2 cup powdered sugar, 2. 1 cup whole milk, 3. 1 cup of flour, 4. 1/4 cup of cocoa powder, 5. 1tbs baking soda, 6. 1/2 cupwater",
+        "steps": "1. Mix powdered sugar in 1/2 cup of whole milk until smooth, 2. Sift flour, 3. cocoa powder and baking soda, 4. Mix properly add the remaining 1/2 cup of whole milk mix properly, 5. add water, 6. Bake for 30mins",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591846304/moist-chocolate-cake.jpg",
+        "videoLink": "url of video"
+      },
+      {
+        "id": "10",
+        "state": "General",
+        "name": "Strawberry Cake",
+        "description": "Soft and fluffy homemade strawberry cake made with strawberries flavour and topped with a creamy strawberry buttercream",
+        "ingredients": "1. 500g Flour, 2. 500g Flour, 3. 500g butter, 4. 500g fresh eggs, 1 tbs Baking powder, Strawberry flavour",
+        "steps": "1. Sift cake flour into the mixer bowl, 2. add sugar and butter, 3. Add eggs bit by bit, 4. Add flavor and baking powder mix properly for 7mins, 4. Bake in preheated oven, 5. in a well lined pan for 45mins",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591841044/Strawberry-Cake.jpg",
+        "videoLink": "url of video"
+      },
+      {
+        "id": "11",
+        "state": "General",
+        "name": "Ofada Sauce",
+        "description": "Ofada sauce is a delicious type of Nigerian stew that is usually eaten with ofada rice or any other food item.",
+        "ingredients": "1. 4 Green bell peppers, 2. 1 large Onion, 3. 2 Habanero pepper (Atarodo) - use as much as you want, 4. 2 tbsp locust beans (iru), 5. Beef Stock as needed, 6. 2 tbsps Crayfish, 7. 3/4 Cup Palm Oil, 8. 4 boiled eggs, 9. 1/2 pound Beef/Tripe cut into bit size, 10. Salt to taste",
+        "steps": "1. Blend the Peppers and Onions a little at a time adding very little water while blending because the excess water is not needed, 2. Pour the blended Pepper into a Pot and boil it until most of the water is gone, 3. In a clean Pot, add the Palm Oil, cover and let it heat up on low to medium heat until the color of the oil turns to honey-brown color, At this point, don't open the lid of the pot because of the intense smoke, just turn off the stove and leave it to cool or simply lift it outside for a faster cooling., 4. Once the Oil is cooled down return to the stove top and let it heat up a little bit not to smoking point (uncovered this time), 5. Add the diced Onions and locust bean and fry till the onions begin to float on the oil., 6. Pour in the boiled pepper, stir it all together, cover it up and allow it to cook until the oil begins to float over the pepper sauce, 7. Add your choice of Meat, some beef stock to loosen up the sauce if it's too thick and salt to taste.",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843581/Ofada-Sauce.jpg",
+        "videoLink": "url of video"
+      },
+      {
+        "id": "12",
+        "state": "General",
+        "name": "Potato stir-fry",
+        "description": "Potatoes are incorporated into dishes differently. Of all the many methods of cooking potatoes, my personal favorite is the stir-fry.",
+        "ingredients": "1. 500g potatoes, \n 2. 5 fillets of chicken breast, \n 3. Green, red and yellow bell peppers,\n 4. 1 red onion,\n 5. Garlic and ginger,\n 6. ½ teaspoon of thyme,\n 7. salt,\n 8. curry powder and onion powder,\n 9. 2 tablespoons pepper sauce,\n 10. 2 tablespoons soy sauce,\n 11. vegetable oil",
+        "steps": "1. cut the chicken into thin strips and put in a bowl, 2. Add thyme, salt, onion powder and curry powder. 3. Mix well, cover and set aside to marinate, cut the potatoes into long chips and deep fry, cut the belle peppers into long slices, peel and grate the garlic and ginger, 3. Add vegetable oil into a frying pan and heat up. 4. Fry the chicken strips and set aside, stir-fry the onion, garlic and ginger for 3 minutes. 5. Add the bell peppers and fry for 5 minutes, 6. Add the fried potato chips and mix thoroughly. 7. Add pepper sauce and soy sauce., 8. Mix everything together and turn off the heat, serve as you like, with a soft drink or water",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591846320/potato.jpg",
+        "videoLink": "https://youtu.be/IsbiTKUSzYY"
+      }
+]
