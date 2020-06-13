@@ -1,0 +1,71 @@
+[
+    {
+        "id": "1",
+    "state": "South West Nigeria",
+    "name": "Efo riro soup",
+    "description": "Efo riro is one of the most popular vegetable soups in Nigeria and an absolute favorite of Yorubas. It is rich with vitamins and an amazing variety of protein.” To prepare this finger licking delicious delicacy, the following ingredients are needed;",
+    "ingredients": "1. ½ cup palm oil,2. scotch bonnet(Rodo),3. 3 medium bell,4. peppers(Tatashe),5. ½ medium size red onions,6. 2 bunch ugwu leaves,7. Assorted meat of your choice,8. Dried stockfish,9. ¼ cup smoked prawns,10. 1 tablespoon locust beans,11. 3 tablespoons ground crayfish,12. 2 seasoning cubes,13. Salt to taste",
+    "steps": "1. First you blend the bonnets,2. bell pepper and onion and set aside. Then you wash the vegetable with hot water and slice,2. Season the assorted meat in a pot and cook,3. Make sure to cook the touched meat first before the soft ones,4. Add palm oil into a big pot and allow to heat up. Add onion to the hot oil and stir,5. Add the locust beans and stir for about 3 minutes,6. Add the blended pepper and let it dry for 15 minutes,7. When a thick consistency is achieved,  add a little water and allow to cook for 2 minutes, 8. Now add the already boiled meat and 1 seasoning cube, 9.Taste and add salt if needed and finally add the vegetable, 10.Stir thoroughly and switch of  the heat and serve with your favorite swallow.",
+    "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843589/Efo-Riro.jpg",
+    "videoLink": "url of video"
+    },
+
+
+
+    {
+        "id": "2",
+        "state": "South East Nigeria",
+        "name": "Onugbu Soup",
+        "description": "This is a traditional soup native to the South Easten part of Nigeria",
+        "ingredients": "1. A handful of washed and squeezed bitterleaf,2. 10 small corms(Cocoyam),3. 3 cooking spoons of Red Palm Oil,4. Assorted Beef( Optional ),5. Assorted Fish: Stock Fish and Dry Fish,6. Salt,7. Pepper and ground crayfish (to taste),8. 3 stock cubes( e.g maggi cubes),9. 1 teaspoon of Ogiri Igbo (traditional seasoning)",
+        "steps": "1. Make sure the bitter leaves are well washed to remove the bitter taste. If the bitterness cannot be completely washed off, boil it for about 15 minutes and wash in cold water, 2. Wash ad cock the cocoyam till they are soft, 3. Remove the peels and use a mortar and pestle to pound the cocoyams to a smooth paste, 4. Boil the assorted beef, stock fish and dry fish in 1 litre of water till they are well done, 5. Add the 3 stock cubes(Maggi/knorr) and cock for 5 minutes, 6. Add the group crayfish, pepper and bitter leaves and cock for 10 minutes, 7. Add the cocoyam paste in small lumps and the palm oil, 8. Cover the pot and let it cock until the cocoyam lumps have dissolved. You can add water if you feel the soup is too thick, 9. Add salt to taste and cock for a few minutes. The soup is ready",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843599/onugbu-soup.jpg",
+        "videoLink": "url of video"
+    },
+
+    {
+        "id": "3",
+        "state": "General",
+        "name": "Akara",
+        "description": "Akara is a popular Nigerian food made with beans and it is also known as bean cakes, bean balls or bean fritas. It can be served with pap,custard or fresh bread.",
+        "ingredients": "1. 1 cup black-eyed beans,2. 2 atarodo peppers,3. 1 medium onion,4. vegetable oil,5. salt to taste",
+        "steps": "1. Wash the beans thoroughly until the coat comes off and soak in water for 2 hours to make it soft enough to blend, 2. Grind the beans in a blender and make sure to add just a little quantity of water, 3. Heat up some oil at least 3 inches deep, 4. Empty the ground beans into a deep bowl, 5. Blend the pepper and onion separately and add it to the ground beans, 6. Mix properly and add one spoonful at a time into the hot oil, 7. Fry until it is brown all over. Remove and place in a sieve lined with paper towels, 8. Repeat this process until the mixture is the bowl is finished, 9. Your freshly made hot Akara is ready to be served as desired",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843527/akara.jpg",
+        "videoLink": "url of video"
+      },
+
+      {
+        "id": "4",
+        "state": "Northern Nigeria",
+        "name": "Suya",
+        "description": "Suya is an infamous spicy delicious street food that we all know and love. It is made either with beef, ram or chicken. Innards like kidney and liver are also used and the dried version of suya is called kilishi. Replicating this delicious goodness is really not a rocket science as the ingredients are readily available and affordable.",
+        "ingredients": "1. 500g boneless beef,2. 1/2 cup suya spice,3. 1/4 cup vegetable oil,4. 8-10 skewers,5. 1 seasoning cube",
+        "steps": "1. Soak skewers in water for 12hours so it doesn't burn during grilling, 2. Wash meat thoroughly and slice into thin pieces, 3. Loop the beef onto the skewers, 4. Arrange the skewered meats in a deep dish or tray, 5. Pour vegetable oil in a bowl, 6. Add seasoning cube and mix thoroughly, 7. Dip a clean brush into the oil and thoroughly coat the meat with it, 8. Dust the oiled meats with suya spice and make sure it covers the meat properly, 9. Arrange the spice-covered meat on an oven rack and place them in a preheated grill or oven, 10. Set the oven to 200 degrees Celsius and grill each side for 13-15 minutes, 10. Enjoy your delicious homemade suya",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591843528/suya.jpg",
+        "videoLink": "url of video"
+      },
+
+      {
+        "id": "5",
+        "state": "South East Nigeria",
+        "name": "Ukwa (African Breadfruit)",
+        "description": "Ukwa is also known as African breadfruit. It's a very versatile food. It can be roasted and eaten with coconut or palm kernel, it can be cooked plain without any ingredients. It can also be prepared as a porridge, we would be focusing on this",
+        "ingredients": "1. 2 medium dry fish,2. 2 small stock cubes,3. 7g edible potash,4. Palm oil(enough to change the color of your dish),5. 700g African Breadfruit,6. 5-6 fresh bitter leaves,7. Pepper & Salt",
+        "steps": "1. If your using dry ukwa, soak it overnight in cold water. If Your using freah ukwa , skip this step, 2. Soak, debone and wash the dry fish or stock fish and break it into smaller pieces, 3. Wash the ukwa thoroughly in cold water. Stones and sand usually settle at the bottom 4. Pound the pepper, 5. Rinse the bitter leaves and set it aside, 6. Put the washed ukwa in a pot. Pour enough water to cover the ukwa. The level of water should be about 1 inch above the level of teh ukwa, 7. Add the edible potash and the fry fish or stock fish, 8. Cover th pot and cook till its done. The ukwa is done when the seeds melt when pressed. You may need to top up the water while cooking to avoid burning, 9. Add enough palm oil to the  ukwa, add pepper , stock cubes and salt(to taste), 10. Stir, cover and cook still the palm oil changes colour from read to yellow, 11. Stir and add the bitter leaves, 12. Cover and leave to simmer for about a minute. Your ukwa is ready !",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591846320/ukwa-breadfruit.jpg",
+        "videoLink": "url of video"
+      },
+
+      {
+        "id": "6",
+        "state": "General",
+        "name": "Grilled Fish",
+        "description": "This is a really tasty, economical and different way to enjoy fish! Lots of flavor from the marinade and easy clean up!",
+        "ingredients": "1. Fish,2. Ground Red Pepper,3. Onions,4. Mixed Spices,5. Maggi,6. Vegetable Oil",
+        "steps": "1. Wash and drain fish properly, 2. Slit open slightly so mixed spices can penetrate, 3. Marinate with mixed spices, oil, pepper, onions and maggi, Leave to rest for two hours or overnight in a refrigerator, 4. Grill with a griller on medium heat until it's ready.",
+        "imageLink": "https://res.cloudinary.com/hngi7teamfierce/image/upload/v1591846312/grilled-salmon.jpg",
+        "videoLink": "url of video"
+      },
+    
+
+]
